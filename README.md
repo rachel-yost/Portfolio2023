@@ -1,9 +1,9 @@
 # Biostatistics Masters Student
 
 ### Education
-Mathematics, B.S
-Biology B.S
-University of Massachusetts Amherst, 2023
+Mathematics, B.S  
+Biology B.S  
+University of Massachusetts Amherst, 2023  
 
 ### Relevant Graduate Courses
 Statistical Programming with R (Fall 2023)
